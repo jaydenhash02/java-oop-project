@@ -1,0 +1,40 @@
+{
+    "entities": [
+        {
+            "x": 2,
+            "y": 2,
+            "type": "player"
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "type": "sun_stone"
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "type": "anduril"
+        },
+        {
+            "x": 2,
+            "y": 5,
+            "type": "midnight_armour"
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "type": "sceptre"
+        },         
+        {
+            "x": 1,
+            "y": 8,
+            "type": "swamp_tile",
+            "movement_factor": 2
+        },        
+        {
+            "x": 5,
+            "y": 2,
+            "type": "hydra"
+        }
+    ]
+}

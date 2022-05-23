@@ -1,0 +1,29 @@
+{
+    "entities": [
+        {
+            "x": 0,
+            "y": 0,
+            "type": "player"
+        },
+        {
+            "x": 16,
+            "y": 15,
+            "type": "wall"
+        },
+        {
+            "x": 17,
+            "y": 15,
+            "type": "wall"
+        }, 
+        {
+            "x": 5,
+            "y": 6,
+            "type": "bomb"
+        },
+        {
+            "x": 10,
+            "y": 6,
+            "type": "health_potion"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "entities": [
+        {
+            "x": 0,
+            "y": 0,
+            "type": "player"
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "type": "invisibility_potion"
+        }, 
+        {
+            "x": 4,
+            "y": 4,
+            "type": "invincibility_potion"
+        }
+    ]
+}

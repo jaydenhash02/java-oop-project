@@ -1,0 +1,29 @@
+{
+    "entities": [
+        {
+            "x": 2,
+            "y": 4,
+            "type": "treasure"
+        },
+        {
+            "x": 3,
+            "y": 5,
+            "type": "sun_stone"
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "type": "player"
+        },
+        {
+            "x": 30,
+            "y": 30,
+            "type": "assassin"
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "type": "one_ring"
+        }
+    ]
+}

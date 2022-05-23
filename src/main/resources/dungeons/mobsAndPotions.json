@@ -1,0 +1,34 @@
+{
+    "entities": [
+        {
+            "x": 0,
+            "y": 0,
+            "type": "player"
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "type": "invisibility_potion"
+        }, 
+        {
+            "x": 4,
+            "y": 4,
+            "type": "invincibility_potion"
+        }, 
+        {
+            "x": 10,
+            "y": 10,
+            "type": "spider" 
+          },
+          {
+            "x": 8,
+            "y": 8,
+            "type": "mercenary"
+          },
+          {
+            "x": 6,
+            "y": 6,
+            "type": "zombie_toast"
+          }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "entities": [
+        {
+            "x": 1,
+            "y": 0,
+            "type": "wall"
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "type": "wall"
+        },        
+        {
+            "x": 3,
+            "y": 0,
+            "type": "wall"
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "type": "wall"
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "type": "switch"
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "type": "boulder"
+        },
+        {
+            "x": 5,
+            "y": 5,
+            "type": "player"
+        },
+        {
+            "x": 7,
+            "y": 7,
+            "type": "bomb"
+        },
+        {
+            "x": 10,
+            "y": 7,
+            "type": "health_potion"
+        } 
+    ],
+    "goal-condition": {
+        "goal": "boulders"
+    }
+}

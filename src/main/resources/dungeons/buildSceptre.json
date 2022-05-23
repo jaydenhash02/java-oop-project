@@ -1,0 +1,51 @@
+
+{
+    "entities": [
+        {
+            "x": 7,
+            "y": 3,
+            "type": "wood"
+        },
+        {
+            "x": 7,
+            "y": 4,
+            "type": "treasure"
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "type": "player"
+        },
+        {
+            "x": 3,
+            "y": 7,
+            "type": "sun_stone"
+        },
+        {
+            "x": 4,
+            "y": 7,
+            "type": "sun_stone"
+        },
+        {
+            "x": 6,
+            "y": 7,
+            "type": "wood"
+        },
+        {
+            "x": 6,
+            "y": 2,
+            "type": "arrow"
+        },
+        {
+            "x": 6,
+            "y": 3,
+            "type": "arrow"
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "type": "key",
+            "key": 1
+        }
+    ]
+}

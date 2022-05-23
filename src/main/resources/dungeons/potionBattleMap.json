@@ -1,0 +1,74 @@
+{
+    "entities": [
+        {
+            "x": 0,
+            "y": 3,
+            "type": "swamp_tile",
+            "movement_factor": 20
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "type": "swamp_tile",
+            "movement_factor": 20
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "type": "swamp_tile",
+            "movement_factor": 20
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "type": "swamp_tile",
+            "movement_factor": 20
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "type": "swamp_tile",
+            "movement_factor": 20
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "type": "player"
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "type": "invisibility_potion"
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "type": "invincibility_potion"
+        }, 
+        {
+            "x": 0,
+            "y": 3,
+            "type": "spider"
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "type": "zombie_toast"
+        }, 
+        {
+            "x": 0,
+            "y": 5,
+            "type": "mercenary"
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "type": "assassin"
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "type": "hydra"
+        }
+    ]
+}
